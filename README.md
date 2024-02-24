@@ -15,9 +15,9 @@ Googleで検索しても見つからなかったから。
 
 また、以下のモジュールも使用しています。
 - **re**, **math**, **sys** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
-- **PySide6**([enter link description here](https://www.gnu.org/licenses/lgpl-3.0.html.en))
+- **PySide6** ([GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg1NywtMTExMDIxMjA4Niw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbNTI2Mzg5MzM5LC0xMTEwMjEyMDg2LDczMD
+k5ODExNl19
 -->
