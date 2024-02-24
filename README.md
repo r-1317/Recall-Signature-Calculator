@@ -14,10 +14,11 @@ Googleで検索しても見つからなかったから。
 - **Python** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
 
 また、以下のモジュールも使用しています。
-- **os**, **time**, **sys**, **argparse** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
+- **re**, **math**, **sys** ([Python Software Foundation License](https://docs.python.org/ja/3/license.html#psf-license)) Copyright © 2001-2023 Python Software Foundation. All rights reserved.
+- **PySide6**
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM3MDc4MDAsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTAyMTIwODYsNzMwOTk4MTE2XX0=
 -->
