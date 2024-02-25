@@ -7,11 +7,9 @@
 計算が[少し複雑](https://www.soumu.go.jp/main_content/000451016.pdf)であり、Googleで検索しても計算できるwebサイトが見つからなかったから。
 
 ## 使い方
-![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)
-有権者数を入力するだけで必要な署名数を計算できます。
+![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)<br>有権者数を入力するだけで必要な署名数を計算できます。
 
-![calc.pyのスクリーンショット](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc_cli.png?raw=true)
-また、[calc.py](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc.py)のみを使ってCLIでの操作も可能です。
+![calc.pyのスクリーンショット](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc_cli.png?raw=true)<br>また、[calc.py](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc.py)のみを使ってCLIでの操作も可能です。
 
 ## 使用している言語とモジュール
 このソフトウェアは、Pythonを使用しています。
@@ -24,7 +22,7 @@
 ## ライセンス
 このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/LICENCE.txt)を参照してください。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNTI2OTY5LC02Mjc2NjI2MzUsLTE2OD
-kxNzI5Miw1MjYzODkzMzksLTExMTAyMTIwODYsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTYzNDgxMzExMywyNzA1MjY5NjksLTYyNz
+Y2MjYzNSwtMTY4OTE3MjkyLDUyNjM4OTMzOSwtMTExMDIxMjA4
+Niw3MzA5OTgxMTZdfQ==
 -->
