@@ -19,3 +19,10 @@ def calc_signatures(voters:int):
   signatures = math.ceil(signatures)
 
   return signatures
+
+
+# 単体でも使えるようにする
+if __name__ == "__main__":
+  voters = int(input("有権者数を入力してください。"))
+  signatures = calc_signatures(voters)
+  print(f"必要な署名は{signatures:,}筆です。")
