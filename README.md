@@ -1,5 +1,5 @@
 # Recall-Signature-Calculator
-![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)
+![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/thumbnail.png?raw=true)
 ## 概要
 都道府県知事・市町村長の解職請求に必要な署名数を計算します。
 
@@ -7,6 +7,7 @@
 計算が[少し複雑](https://www.soumu.go.jp/main_content/000451016.pdf)であり、Googleで検索しても計算できるwebサイトが見つからなかったから。
 
 ## 使い方
+![サムネイル画像](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/ScreenShot.png?raw=true)
 有権者数を入力するだけで必要な署名数を計算できます。
 
 ![calc.pyのスクリーンショット](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc_cli.png?raw=true)
@@ -23,6 +24,7 @@
 ## ライセンス
 このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/LICENCE.txt)を参照してください。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzY2MjYzNSwtMTY4OTE3MjkyLDUyNj
-M4OTMzOSwtMTExMDIxMjA4Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjM0Njk2MDcsLTYyNzY2MjYzNSwtMT
+Y4OTE3MjkyLDUyNjM4OTMzOSwtMTExMDIxMjA4Niw3MzA5OTgx
+MTZdfQ==
 -->
