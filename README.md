@@ -9,7 +9,8 @@
 ## 使い方
 有権者数を入力するだけで必要な署名数を計算できます。
 
-
+![calc.pyのスクリーンショット](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/calc_cli.png?raw=true)
+また、calc.py
 
 ## 使用している言語とモジュール
 このソフトウェアは、Pythonを使用しています。
@@ -22,6 +23,6 @@
 ## ライセンス
 このソフトウェアは、[GNU Lesser General Public License](https://www.gnu.org/licenses/lgpl-3.0.html.en)の下で配布されています。詳細は[LICENSE.txt](https://github.com/r-1317/Recall-Signature-Calculator/blob/main/LICENCE.txt)を参照してください。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTY0OTYxNiwtMTY4OTE3MjkyLDUyNj
+eyJoaXN0b3J5IjpbMjA4MzI4NjQ0NSwtMTY4OTE3MjkyLDUyNj
 M4OTMzOSwtMTExMDIxMjA4Niw3MzA5OTgxMTZdfQ==
 -->
